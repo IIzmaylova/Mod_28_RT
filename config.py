@@ -46,7 +46,7 @@ class TestData():
     valid_email = '96iiaspj2plryob@tmp-mail.ru'
     no_register_email = 'iiaspj2plryob96@tmp-mail.ru'
     no_unic_mail = '96iiaspj2plryob@tmp-mail.ru'
-    invalid_email = 'hecaris562@@cnxcoin.com'
+    # invalid_email = 'hecaris562@@cnxcoin.com'
     password_1 = 'UlceR123'
     password_2 = 'PassW2nd'
     password_3 = 'PassW3rd'
@@ -54,8 +54,7 @@ class TestData():
     first_name_positive1 = 'Иван'
     last_name_positive1 = 'Смирнов'
     valid_phone = '+79990000000'
-    no_unic_phone = '+79000000000'
-    invalid_phone = '+7999***9321'
+    no_unic_phone = '+79995699321'
     empty = ''
     wrong_conf_code = '000000'
 

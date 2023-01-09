@@ -1,4 +1,4 @@
-# python -m pytest -v --driver Chrome --driver-path chromedriver.exe tests/registration_tests.py
+# python -m pytest -v --driver Chrome --driver-path chromedriver.exe tests/registration_test.py
 
 import time
 import pytest
